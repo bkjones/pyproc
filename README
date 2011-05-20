@@ -1,0 +1,8 @@
+Here's what you need to know: 
+
+1. pyproc is a work in progress. Pull requests welcome. Total time spent at initial push time: 10 mins. Judge accordingly. 
+2. I make no claims of portability. I'm using Ubuntu as the reference implementation. 
+3. Yes, I know there's another module that does some of what I want. I wasn't happy with the code, or the license.
+4. I'm starting this project to see how far I can take it, so ideas/thoughts are more than welcome. Got a problem 
+    that could be solved if only you had easy access to some procfs-residing data? Let me know, or better -- fork!
+5. I'm Brian, you can reach me at bkjones at Google's fine email service. 
