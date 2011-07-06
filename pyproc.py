@@ -67,7 +67,7 @@ def port_status_from_hex(hex_status):
               11: 'TCP_CLOSING',
               12: 'TCP_MAX_STATES'}
 
-     return hexmap(int(hex_status, 16))
+    return hexmap(int(hex_status, 16))
 
 def get_open_files_by_pid(pid):
     pass
